@@ -1,2 +1,2 @@
-def hight(words: str) -> str:
+def high(words: str) -> str:
     pass
